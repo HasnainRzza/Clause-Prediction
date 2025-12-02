@@ -138,8 +138,10 @@ Attention Encoder Test Accuracy = 0.9501 | Loss = 0.1823
 Visualization
 The script generates two plots to visualize the training process:
 
+Bar Charts
+<img width="800" height="600" alt="bars" src="https://github.com/user-attachments/assets/7e01323f-7fc3-4ec3-b994-daceccd59a02" />
+
+
 Training vs Validation Accuracy
+<img width="1189" height="490" alt="image" src="https://github.com/user-attachments/assets/21f29d82-a453-440e-b16b-1da14140e48e" />
 
-Training vs Validation Loss
-
-These plots are generated for both the BiLSTM and Attention models.
