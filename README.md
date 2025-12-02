@@ -145,3 +145,8 @@ Bar Charts
 Training vs Validation Accuracy
 <img width="1189" height="490" alt="image" src="https://github.com/user-attachments/assets/21f29d82-a453-440e-b16b-1da14140e48e" />
 
+Attention Encoder Loss Curves
+<img width="1189" height="490" alt="image" src="https://github.com/user-attachments/assets/2358227c-e129-4a86-b8af-555aa769b84d" />
+
+Bar Charts
+<img width="800" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/13564008-803b-487f-8fd9-31b767bc721e" />
